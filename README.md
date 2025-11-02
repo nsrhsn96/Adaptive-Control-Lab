@@ -1,2 +1,2 @@
-# Adaptive-Control-Lab
+# Nonlinear-System-Lab
 labs
